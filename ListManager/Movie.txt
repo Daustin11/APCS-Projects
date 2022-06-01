@@ -1,0 +1,4 @@
+Dune|Denis Villenueve|2021|10.0|9.8
+Drive|Nicholas W.R|2011|10.0|9.5
+Shawshank|Frank Darabont|1994|9.3|10.0
+Big|Penny Marshall|1988|5.5|3.4
